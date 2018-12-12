@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Landis_SpatialModeling", "api\Landis_SpatialModeling.csproj", "{C3BB257A-34F1-4DD2-83D5-69EBDDCD50B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Landis_Landscapes", "Landscapes\Landis_Landscapes.csproj", "{1C3CBB5D-CFF2-4234-AD59-24FBBE5779F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Landis_RasterIO", "RasterIO\Landis_RasterIO.csproj", "{72EDF418-CF3E-4D23-9161-51510FBAF4EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Landis_RasterIO_Gdal", "RasterIO.Gdal\Landis_RasterIO_Gdal.csproj", "{EF6B05AA-EC3F-423B-9E8E-D8A2E188D2F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3BB257A-34F1-4DD2-83D5-69EBDDCD50B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BB257A-34F1-4DD2-83D5-69EBDDCD50B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BB257A-34F1-4DD2-83D5-69EBDDCD50B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BB257A-34F1-4DD2-83D5-69EBDDCD50B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3CBB5D-CFF2-4234-AD59-24FBBE5779F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3CBB5D-CFF2-4234-AD59-24FBBE5779F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3CBB5D-CFF2-4234-AD59-24FBBE5779F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3CBB5D-CFF2-4234-AD59-24FBBE5779F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72EDF418-CF3E-4D23-9161-51510FBAF4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EDF418-CF3E-4D23-9161-51510FBAF4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EDF418-CF3E-4D23-9161-51510FBAF4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EDF418-CF3E-4D23-9161-51510FBAF4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF6B05AA-EC3F-423B-9E8E-D8A2E188D2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6B05AA-EC3F-423B-9E8E-D8A2E188D2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6B05AA-EC3F-423B-9E8E-D8A2E188D2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6B05AA-EC3F-423B-9E8E-D8A2E188D2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B58407-06E4-4243-9A6A-45A27F8CDB62}
+	EndGlobalSection
+EndGlobal

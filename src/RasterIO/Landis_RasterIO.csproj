@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk"> 
+  
+  <PropertyGroup>
+    <RootNamespace>Landis.RasterIO</RootNamespace>
+    <AssemblyName>Landis.RasterIO</AssemblyName>
+    <AssemblyDescription>Raster I/O for spatial modeling</AssemblyDescription>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>LANDIS-II Foundation</Authors>
+    <Company>LANDIS-II Foundation</Company>
+    <Description>Raster I/O for spatial modeling</Description>
+    <Copyright>LANDIS-II Foundation</Copyright>
+    <PackageProjectUrl>https://sites.google.com/site/landismodel/home</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/LANDIS-II-Foundation/Library-Spatial</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>LANDIS-II;Landis;RasterIO</PackageTags>
+    <NeutralLanguage>English</NeutralLanguage>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\api\Landis_SpatialModeling.csproj" />
+  </ItemGroup>
+  
+</Project>

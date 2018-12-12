@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Landis.SpatialModeling</RootNamespace>
+    <AssemblyName>Landis.SpatialModeling</AssemblyName>
+    <AssemblyDescription>Library API</AssemblyDescription>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>LANDIS-II Foundation</Authors>
+    <Company>LANDIS-II Foundation</Company>
+    <Description>This library handles spatial interactions for LANDIS. It was designed to be independent of the LANDIS-II framework and therefore could readily be used for any model that requires spatial interactions.</Description>
+    <Copyright>LANDIS-II Foundation</Copyright>
+    <PackageProjectUrl>https://sites.google.com/site/landismodel/home</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/LANDIS-II-Foundation/Library-Spatial</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>LANDIS-II;Landis;Spatial Modeling</PackageTags>
+  </PropertyGroup>
+</Project>
