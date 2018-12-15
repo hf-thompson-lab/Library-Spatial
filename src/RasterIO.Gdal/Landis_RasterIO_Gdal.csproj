@@ -18,14 +18,14 @@
   </PropertyGroup>
   
   <ItemGroup>
+    <PackageReference Include="GDAL.NET" Version="2.3.1" />
+  </ItemGroup>
+  
+  <ItemGroup>
     <ProjectReference Include="..\api\Landis_SpatialModeling.csproj">
     </ProjectReference>
     <ProjectReference Include="..\RasterIO\Landis_RasterIO.csproj">
     </ProjectReference>
-  </ItemGroup>
-  
-  <ItemGroup>
-    <PackageReference Include="Gdal.Core" Version="1.0.0" />
   </ItemGroup>
   
 </Project>
