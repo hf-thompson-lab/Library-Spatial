@@ -7,7 +7,6 @@ namespace Landis.RasterIO.Gdal
     {
         static GdalSystem()
         {
-            System.Console.ReadLine();
             OSGeo.GDAL.Gdal.AllRegister();
         }
 

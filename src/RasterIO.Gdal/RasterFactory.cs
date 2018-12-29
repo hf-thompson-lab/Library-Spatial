@@ -28,7 +28,6 @@ namespace Landis.RasterIO.Gdal
 
         static RasterFactory()
         {
-            Console.ReadLine();
             GdalSystem.Initialize();
         }
  
