@@ -1,7 +1,7 @@
 
 // Copyright 2010-2011 Green Code LLC
 // All rights reserved.
-//
+// //
 // The copyright holders license this file under the New (3-clause) BSD
 // License (the "License").  You may not use this file except in
 // compliance with the License.  A copy of the License is available at
